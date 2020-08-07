@@ -1,0 +1,26 @@
+body {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 32px;
+    text-align: CENTER;
+    line-height: 30%;
+}
+
+button {
+  display: block;
+  padding: 02px;
+  width: 100px;
+  margin: auto;
+}
+.circular--square {
+  border-top-left-radius: 90% 90%;
+  border-top-right-radius: 90% 90%;
+  border-bottom-right-radius: 90% 90%;
+  border-bottom-left-radius: 90% 90%;
+}
+.circular-square {
+  border-top-left-radius: 30% 30%;
+  border-top-right-radius: 30% 30%;
+  border-bottom-right-radius: 30% 30%;
+  border-bottom-left-radius: 30% 30%;
+}
